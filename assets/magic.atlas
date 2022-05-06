@@ -1,0 +1,83 @@
+
+magic.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand1
+  rotate: false
+  xy: 959, 890
+  size: 99, 130
+  orig: 102, 132
+  offset: 2, 1
+  index: -1
+L_hand2
+  rotate: false
+  xy: 263, 12
+  size: 137, 217
+  orig: 139, 219
+  offset: 1, 1
+  index: -1
+L_leg
+  rotate: false
+  xy: 663, 79
+  size: 102, 150
+  orig: 104, 153
+  offset: 1, 1
+  index: -1
+R_hand1
+  rotate: true
+  xy: 959, 761
+  size: 127, 113
+  orig: 130, 116
+  offset: 1, 2
+  index: -1
+R_hand2
+  rotate: true
+  xy: 529, 20
+  size: 209, 132
+  orig: 211, 136
+  offset: 1, 2
+  index: -1
+R_leg
+  rotate: false
+  xy: 767, 79
+  size: 102, 150
+  orig: 104, 153
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 871, 2
+  size: 408, 370
+  orig: 411, 372
+  offset: 1, 1
+  index: -1
+effect
+  rotate: false
+  xy: 402, 17
+  size: 125, 212
+  orig: 146, 250
+  offset: 6, 34
+  index: -1
+head
+  rotate: true
+  xy: 263, 231
+  size: 789, 586
+  orig: 792, 588
+  offset: 2, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 851, 412
+  size: 608, 106
+  orig: 641, 121
+  offset: 17, 8
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 63
+  size: 259, 957
+  orig: 262, 959
+  offset: 2, 1
+  index: -1

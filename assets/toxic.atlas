@@ -1,0 +1,83 @@
+
+toxic.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand1
+  rotate: false
+  xy: 628, 127
+  size: 126, 161
+  orig: 129, 163
+  offset: 1, 1
+  index: -1
+L_hand2
+  rotate: true
+  xy: 2, 11
+  size: 265, 125
+  orig: 267, 127
+  offset: 1, 1
+  index: -1
+L_leg
+  rotate: false
+  xy: 1084, 180
+  size: 117, 161
+  orig: 117, 161
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 1084, 46
+  size: 132, 101
+  orig: 134, 103
+  offset: 1, 1
+  index: -1
+R_leg
+  rotate: true
+  xy: 628, 2
+  size: 123, 157
+  orig: 123, 157
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 787, 31
+  size: 295, 310
+  orig: 298, 312
+  offset: 2, 1
+  index: -1
+bottle
+  rotate: false
+  xy: 2, 278
+  size: 562, 738
+  orig: 565, 740
+  offset: 1, 1
+  index: -1
+gun
+  rotate: true
+  xy: 670, 343
+  size: 673, 435
+  orig: 676, 438
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 1107, 347
+  size: 667, 669
+  orig: 667, 669
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 566, 290
+  size: 726, 102
+  orig: 739, 108
+  offset: 7, 3
+  index: -1
+tube
+  rotate: false
+  xy: 129, 23
+  size: 497, 253
+  orig: 499, 255
+  offset: 1, 1
+  index: -1

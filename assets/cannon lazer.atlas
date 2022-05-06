@@ -1,0 +1,62 @@
+
+cannon lazer.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 2, 106
+  size: 419, 169
+  orig: 419, 169
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 600, 278
+  size: 119, 136
+  orig: 119, 136
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 721, 280
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 874, 54
+  size: 360, 293
+  orig: 360, 293
+  offset: 0, 0
+  index: -1
+cannon
+  rotate: false
+  xy: 600, 416
+  size: 1029, 606
+  orig: 1031, 608
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 277
+  size: 745, 596
+  orig: 745, 596
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 726, 102
+  orig: 739, 108
+  offset: 7, 3
+  index: -1
+tail
+  rotate: false
+  xy: 423, 122
+  size: 409, 153
+  orig: 409, 153
+  offset: 0, 0
+  index: -1

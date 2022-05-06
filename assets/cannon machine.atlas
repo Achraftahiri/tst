@@ -1,0 +1,55 @@
+
+cannon machine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_leg1
+  rotate: false
+  xy: 994, 2
+  size: 339, 218
+  orig: 341, 220
+  offset: 1, 1
+  index: -1
+L_leg2
+  rotate: false
+  xy: 1692, 190
+  size: 255, 255
+  orig: 258, 257
+  offset: 2, 1
+  index: -1
+L_leg3
+  rotate: false
+  xy: 1335, 66
+  size: 409, 122
+  orig: 411, 124
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 83
+  size: 990, 835
+  orig: 992, 837
+  offset: 1, 1
+  index: -1
+cannon
+  rotate: false
+  xy: 1692, 447
+  size: 310, 327
+  orig: 310, 327
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 994, 222
+  size: 696, 552
+  orig: 696, 552
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 994, 776
+  size: 1004, 142
+  orig: 1021, 148
+  offset: 9, 3
+  index: -1

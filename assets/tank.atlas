@@ -1,0 +1,90 @@
+
+tank.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand1
+  rotate: true
+  xy: 794, 231
+  size: 354, 476
+  orig: 356, 478
+  offset: 1, 1
+  index: -1
+L_hand2
+  rotate: false
+  xy: 408, 40
+  size: 384, 586
+  orig: 387, 589
+  offset: 2, 1
+  index: -1
+R_hand1
+  rotate: false
+  xy: 629, 926
+  size: 370, 452
+  orig: 373, 455
+  offset: 1, 2
+  index: -1
+R_hand2
+  rotate: false
+  xy: 2, 4
+  size: 404, 622
+  orig: 406, 624
+  offset: 1, 1
+  index: -1
+R_leg1
+  rotate: false
+  xy: 1272, 101
+  size: 185, 229
+  orig: 209, 232
+  offset: 22, 1
+  index: -1
+R_leg2
+  rotate: false
+  xy: 794, 2
+  size: 182, 227
+  orig: 184, 229
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 1008, 587
+  size: 896, 935
+  orig: 898, 937
+  offset: 1, 1
+  index: -1
+chim
+  rotate: false
+  xy: 629, 802
+  size: 357, 122
+  orig: 360, 124
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 628
+  size: 750, 625
+  orig: 750, 625
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 1272, 332
+  size: 253, 218
+  orig: 253, 218
+  offset: 0, 0
+  index: -1
+leg copy
+  rotate: true
+  xy: 1272, 332
+  size: 253, 218
+  orig: 253, 218
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1380
+  size: 1004, 142
+  orig: 1021, 148
+  offset: 9, 3
+  index: -1
